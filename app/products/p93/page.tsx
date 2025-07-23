@@ -9,7 +9,7 @@ const product = {
   category: "MV AVR",
   title: "Three Phase Step Voltage Regulators",
   description:
-    "SVR-3 type feeder automatic substation & distribution step voltage regulator is actually a three phase oil immersed auto-transformer with SVR controller and gathering sampling of voltage signal, on load tap changer controlling device to achieve gird more efficient from adjust the load character by increase and decrease the voltage.",
+    "The SVR-3 type feeder automatic substation and distribution step voltage regulator is a three-phase, oil-immersed auto-transformer equipped with an SVR controller. It samples voltage signals and uses an on-load tap changer to improve grid efficiency by adjusting load characteristics through voltage regulation.",
   image: "/placeholder.svg?height=200&width=250",
     gallery: ["/product/p93.jpeg?height=300&width=300",],
 

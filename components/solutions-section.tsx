@@ -25,12 +25,12 @@ const solutions = [
   },
   {
     title: "EV Charger", 
-    description: "Revolutionizing EV charging with explosion proof safety. Certified for use in flammable and individual zones. Clean power even in the harshest environments.",
+    description: "Revolutionizing EV charging with Explosion-Proof safety. Certified for use in flammable and individual zones. It delivers clean power, even in the harshest environments.",
     image: "/category/3.jpg?height=150&width=250",
     href: "/products?category=ev-charger",
   },
   {
-    title: "Medium Voltage Automatic voltage Regulator",
+    title: "Medium Voltage AVR",
     description: "Designed for industrial, utility, and infrastructure applications, the Medium Voltage AVR provides real-time voltage stabilization to ensure continuous, efficient, and safe operation of connected loads.  ",
     image: "/product/p92-1.jpeg?height=150&width=250",
     href: "/products?category=mv-avr",

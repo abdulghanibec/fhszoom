@@ -12,11 +12,12 @@ export default function AboutPage() {
             <div>
               <h1 className="text-3xl lg:text-5xl font-bold mb-4 lg:mb-6">About FHS Zoom</h1>
               <p className="text-md lg:text-md mb-6 lg:mb-8 text-justify">
-                We are FHS Zoom a proudly Canadian brand and manufacturer dedicated to creating safer,
-                 smarter, and more resilient industrial environments. As both a brand and a production
-                  powerhouse, we specialize in designing and manufacturing explosion-proof and high-performance
-                   electrical systems. Our solutions are trusted across critical sectors including oil & gas, power
-                    generation, marine, mining, and manufacturing all built to meet and exceed international standards.
+                FHS Zoom is a proudly Canadian brand and manufacturer committed to
+                advancing safer, smarter, and more resilient industrial environments. As both an established brand
+                and a leading production facility, we specialize in the design and manufacture of explosion-proof
+                and high-performance electrical systems. Our solutions are trusted across critical industries—
+                including oil and gas, power generation, marine, mining, and manufacturing—and are engineered
+                to meet and exceed international standards of safety and performance.
               </p>
               {/* <div className="flex flex-wrap gap-4">
                 <div className="bg-white/10 backdrop-blur-sm px-4 py-3 rounded-lg">
@@ -62,7 +63,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-2xl lg:text-3xl font-bold mb-6 text-gray-900">Our Core Expertise:</h2>
               <p className="text-gray-600 mb-4 text-sm lg:text-base text-justify">
-               At FHS Zoom, we engineer a comprehensive range of industrial-grade products from flameproof HVAC units and heavy-duty distribution panels to EV chargers and SCADA-ready control systems. Every product is purpose-built to perform flawlessly in the most demanding and hazardous environments. Certified and zone-rated, our systems offer superior energy efficiency, modular design, and seamless integration to help industries operate with confidence and compliance.
+                At FHS Zoom, we engineer a comprehensive range of industrial-grade products from flameproof HVAC units and heavy-duty distribution panels to EV chargers and SCADA-ready control systems. Every product is purpose-built to perform flawlessly in the most demanding and hazardous environments. Certified and zone-rated, our systems offer superior energy efficiency, modular design, and seamless integration to help industries operate with confidence and compliance.
               </p>
               {/* <p className="text-gray-600 mb-6 text-sm lg:text-base">
                 Our commitment to innovation, quality, and sustainability has made us a trusted partner for homeowners,
@@ -94,7 +95,7 @@ export default function AboutPage() {
           <div className="text-center mb-12">
             <h2 className="text-2xl lg:text-3xl font-bold mb-4">The FHS Zoom Edge</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-                What makes us different?
+              What makes us different?
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -104,7 +105,7 @@ export default function AboutPage() {
               </div>
               {/* <h3 className="text-lg font-semibold mb-2">Customer First</h3> */}
               <p className="text-gray-600 text-sm">
-                  A full-spectrum product line for hazardous zones              </p>
+                A full-spectrum product line for hazardous zones              </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg text-center">
               <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -112,7 +113,7 @@ export default function AboutPage() {
               </div>
               {/* <h3 className="text-lg font-semibold mb-2">Sustainability</h3> */}
               <p className="text-gray-600 text-sm">
-               Aesthetic industrial design blended with rugged engineering
+                Aesthetic industrial design blended with rugged engineering
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg text-center">

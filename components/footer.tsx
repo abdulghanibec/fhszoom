@@ -16,7 +16,7 @@ export default function Footer() {
               className="h-8 w-auto mb-4"
             />
             <p className="text-gray-300 text-sm lg:text-base mb-4">
-              Leading the future of Electronic with Explosion Proof solutions for a sustainable tomorrow.
+              Leading the future of Electronics with Explosion-Proof solutions for a sustainable tomorrow.
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="hover:text-red-400 transition-colors">
